@@ -1,0 +1,38 @@
+Debug Log:
+Logging in...
+Login successful.
+Checking https://muratyl2k4.pythonanywhere.com/api/intern-announcements/...
+Status: 200
+!!! SUCCESS !!!
+Body:
+{
+  "count": 2,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "id": 1,
+      "intern_title": "asd",
+      "intern_image": "https://muratyl2k4.pythonanywhere.com/media/intern/images/InternAnnouncement_object_None-1393427.jpg",
+      "intern_text": "asd",
+      "intern_contact": "asd",
+      "intern_date": "2025-11-28T19:01:37.964711Z",
+      "intern_time": "Full-Time",
+      "intern_remote": true,
+      "intern_end": true,
+      "intern_place": 1
+    },
+    {
+      "id": 2,
+      "intern_title": "asadasd",
+      "intern_image": "https://muratyl2k4.pythonanywhere.com/media/intern/images/asadasd-1393427.jpg",
+      "intern_text": "asdasd",
+      "intern_contact": "asdas",
+      "intern_date": "2025-11-29T21:23:06.996917Z",
+      "intern_time": "Full-Time",
+      "intern_remote": true,
+      "intern_end": false,
+      "intern_place": 1
+    }
+  ]
+}
